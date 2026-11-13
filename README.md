@@ -1,4 +1,4 @@
-# Project 06: Data Wrangling Practice
+Data Wrangling Practice
 
 ## Overview
 Complete data wrangling pipeline on automobile dataset: missing value handling, data formatting, normalization, binning, indicator variables, and correlation analysis.
